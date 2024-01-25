@@ -51,4 +51,6 @@ great_expectations checkpoint new checkpoint_name
 ```sh 
 great_expectations checkpoint run product_data_checkpoint
 ```
-**9.** On Data Hub Platform you can view the validation result
+**9.** On Data Hub Platform you can view the validation result    
+![Screenshot from 2024-01-25 12-33-22](https://github.com/NashTech-Labs/databricks-unity-catalog-data-quality-by-GX/assets/124979629/19f243c2-f52b-4641-8b51-5b80ac6fdc76)
+
